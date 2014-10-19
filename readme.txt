@@ -32,6 +32,10 @@ KaTeX is fast. It's really fast, compared to MathJax. In fact, it's a staggering
 
 Jetpack has a LaTeX plugin that uses the WordPress.com service to render the equations. However, it uses images, which look ugly when zoomed in, or on high-DPI ("retina") displays. Also, it depends on WordPress.com's servers, and a lot of equations can make the page slow (too many requests).
 
+== Screenshots ==
+
+1. Various equations rendered with WP-KaTeX
+
 == Changelog ==
 = 1.0 =
 * Initial release
